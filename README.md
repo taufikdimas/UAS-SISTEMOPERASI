@@ -1,15 +1,7 @@
 # <p align="center">UAS - SISTEM OPERASI</p>
 
-<br><br>
 
-<p align="center">
- 
-![image](https://github.com/taufikdimas/Algoritma-dan-Struktur-Data/assets/143729231/82948574-8b73-4e17-be0a-4fd3d9c857bf)
-
-</p>
-
-<br><br>
-
+# Data Diri
 |                |                                                                     |
 | -------------- | ------------------------------------------------------------------- |
 | NIM            | **2341720062**                                                      |
