@@ -134,19 +134,19 @@ change_pdf_password() {
 }
 
 # Loop utama untuk menu
-    echo "====================================="
-    echo "============ Dibuat Oleh ============"
-    echo "Nama  : Taufik Dimas Edystara"
-    echo "NIM   : 2341720062"
-    echo "Kelas : TI-1B D-IV Teknik Informatika "
-    echo "====================================="
+echo "====================================="
+echo "============ Dibuat Oleh ============"
+echo "Nama  : Taufik Dimas Edystara"
+echo "NIM   : 2341720062"
+echo "Kelas : TI-1B D-IV Teknik Informatika "
+echo "====================================="
+while true; do
     show_menu
     read -p "Masukkan Pilihan (0-12) :" choice
-while true;     
     case $choice in
         1)
             read -p "Masukkan nama file Word: " input_file
-            convert_to_pdf"$input_file" "pdf"
+            convert_to_pdf "$input_file" "pdf"
             ;;
         2)
             read -p "Masukkan nama file PDF: " input_file
