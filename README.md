@@ -29,3 +29,7 @@
 | 10     | Kunci PDF               | Menggunakan **_qpdf_** untuk mengenkripsi file PDF dengan password.               |
 | 11     | Buka kunci PDF          | Menggunakan **_qpdf_** untuk mendekripsi file PDF yang terkunci.          |
 | 12     | Ubah kunci PDF          | Menggunakan **_qpdf_** untuk mengubah password file PDF.                          |
+
+### Tampilan Program
+![image](https://github.com/taufikdimas/UAS-SISTEMOPERASI/assets/143729231/239886cf-c61c-4ec2-a888-27c7b034038f)
+
